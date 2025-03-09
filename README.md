@@ -24,6 +24,8 @@ chmod +x FixAdobeAppsPanel.command
 ```
 Enter your user password when asked, followed by the &lt;Return&gt; key
 
+<img width="1857" alt="Screenshot 2025-03-09 at 4 43 15 PM" src="https://github.com/user-attachments/assets/88750c8f-47fa-4973-887e-06bb4f2e8cac" />
+
 The Adobe Creative Cloud app should open, hopefully with the Apps panel re-instated
 
 ### For Windows:
@@ -40,9 +42,13 @@ Right-click the option _Command Prompt_ and select _Run as administrator_
 
 <img width="781" alt="Screenshot 2025-03-09 at 4 27 31 PM" src="https://github.com/user-attachments/assets/81c25881-5bfc-4e90-9ac5-ad079b1dad9f" />
 
-Once the CMD terminal window opens up, oaste the following two commands (assuming your browser is configured to download to the `Downloads` folder)
+Once the CMD terminal window opens up, paste the following two commands (assuming your browser is configured to download to the `Downloads` folder)
 ```
 cd Downloads
 FixAdobeAppsPanel
 ```
+
+<img width="2040" alt="Screenshot 2025-03-09 at 4 40 05 PM" src="https://github.com/user-attachments/assets/bec7e0dc-8ef1-44c5-93c8-c587bf606760" />
+
 The Adobe Creative Cloud app should open, hopefully with the Apps panel re-instated
+
