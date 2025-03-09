@@ -24,7 +24,11 @@ xattr -d com.apple.quarantine FixAdobeAppsPanel.command
 ```
 This makes the FixAdobeAppsPanel.command double-clickable.
 
-In the Finder, navigate to your Downloads folder and double-click the FixAdobeAppsPanel.command. This will launch a Terminal window.
+In the Finder, navigate to your Downloads folder and find FixAdobeAppsPanel.command. 
+
+If you want, you can move the FixAdobeAppsPanel.command to a more convenient location, e.g. ~/Applications.
+
+Double-click the FixAdobeAppsPanel.command. This will launch a Terminal window.
 
 Enter your user password when asked, followed by the &lt;Return&gt; key
 
