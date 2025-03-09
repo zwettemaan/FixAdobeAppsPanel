@@ -20,8 +20,12 @@ Then open a Terminal window, and paste the following three commands (assuming yo
 ```
 cd ~/Downloads
 chmod +x FixAdobeAppsPanel.command
-./FixAdobeAppsPanel.command
+xattr -d com.apple.quarantine FixAdobeAppsPanel.command
 ```
+This makes the FixAdobeAppsPanel.command double-clickable.
+
+In the Finder, navigate to your Downloads folder and double-click the FixAdobeAppsPanel.command. This will launch a Terminal window.
+
 Enter your user password when asked, followed by the &lt;Return&gt; key
 
 <img width="1857" alt="Screenshot 2025-03-09 at 4 43 15 PM" src="https://github.com/user-attachments/assets/88750c8f-47fa-4973-887e-06bb4f2e8cac" />
