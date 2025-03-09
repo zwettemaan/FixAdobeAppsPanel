@@ -22,7 +22,7 @@ cd ~/Downloads
 chmod +x FixAdobeAppsPanel.command
 ./FixAdobeAppsPanel.command
 ```
-Enter your user password when asked, followed by the <Return> key
+Enter your user password when asked, followed by the &lt;Return&gt; key
 
 The Adobe Creative Cloud app should open, hopefully with the Apps panel re-instated
 
