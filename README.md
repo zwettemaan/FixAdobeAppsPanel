@@ -16,7 +16,7 @@ https://zwettemaan.github.io/FixAdobeAppsPanel/FixAdobeAppsPanel.command
 
 If you want to make sure, first open the file in a text editor and inspect it - it's fairly straightforward code.
 
-Then open a Terminal window, and paste the following three commands (assuming your browser is configured to download to the `~/Downloads` folder)
+Then open a Terminal window, and paste the following three commands (assuming your browser is configured to download to the `~/Downloads` folder). After pasting, hit the &lt;Return&gt; key.
 ```
 cd ~/Downloads
 chmod +x FixAdobeAppsPanel.command
