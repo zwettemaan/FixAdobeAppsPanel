@@ -20,7 +20,7 @@ Then open a Terminal window, and paste the following three commands (assuming yo
 ```
 cd ~/Downloads
 chmod +x FixAdobeAppsPanel.command
-./FixAdobeAppsPanel.command```
+./FixAdobeAppsPanel.command
 ```
 Enter your user password when asked, followed by the <Return> key
 
